@@ -53,7 +53,7 @@ app.get("/userdata", (request, response) => {
     // .rol
 var obj = {
    
-   "status":"true",
+   "status":true,
    "data":user_data
 
 }
