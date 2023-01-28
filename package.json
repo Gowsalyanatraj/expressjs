@@ -1,0 +1,25 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:gow":"nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gowsalyanatraj/expressjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gowsalyanatraj/expressjs/issues"
+  },
+  "homepage": "https://github.com/Gowsalyanatraj/expressjs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
